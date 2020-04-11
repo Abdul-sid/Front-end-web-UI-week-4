@@ -1,0 +1,115 @@
+body{
+    background-color: #f2f0f0;
+}
+
+.banner{
+    background-image: url('../img/heroimage.jpg');
+    min-height: 500px;
+    background-size: cover;
+    margin-top: -100px;
+  }
+
+#Navbar {
+    position: absolute;
+    right: 0px;
+    }
+
+.text{
+        font-size: 15px;
+        padding-left: 10px;
+        font-weight: 500;
+    }
+.banner-head{
+    color:whitesmoke;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.search{
+    color:whitesmoke;
+}
+
+#reserveBtn{
+    background-color:#f2f0f0;
+    opacity: 0.75;
+    color: brown;
+}
+
+#reserveBtn:hover{
+    background-color:brown;
+    opacity: 0.75;
+    color: #f2f0f0;
+}
+
+#reserveBtn1{
+    color: #f2f0f0;
+    background-color: brown;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+   
+ 
+}
+
+.featuredImg{
+    background-color: #f8f7f7;
+    border-radius: 50px;
+ }
+
+ .featuredText{
+     height: 100%;
+     width: 80%;
+     background-color:#fdfcfc;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20px;
+ }
+
+ .Review{
+     background-color: rgb(243, 190, 147);
+     margin-top: 20px;
+     min-height: 100%;
+ }
+
+ .reviewer{
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .img-thumbnail{
+     width: 25%;
+     height: 25%;
+     border-radius: 50%;
+ }
+ .reviewedText{
+     margin: 2% 6% 0% 6%;
+ }
+
+ .review{
+     background-color:#443d32;
+     margin-top: 30px;
+     padding-bottom: 30px;
+ }
+
+ .reviewBox{
+     background-color: #554f45;
+     padding-top: 20px;
+     height: 100%;
+     border-radius: 50px;
+ }
+ .reviewText{
+     border:solid 2px #645f56;
+     margin-top: 25px;
+     border-radius: 50px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+ }
+
+ footer{
+     color: #443d32;
+ }
+
+ .footMenu a{
+     color:#443d32 ;
+ }
